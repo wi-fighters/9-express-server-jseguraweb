@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./style.css">
+    <title>Testing</title>
+</head>
+
+<body>
+    <h1>Records:</h1>
+    <div class="container">
+
+    </div>
+    <button id="show-records-btn">Show records</button>
+</body>
+<script>
+    const container = document.querySelector('.container');
+
+    const newAlbum = document.createElement('div');
+    const name = document.createElement('h2');
+
+    const showRecordsButton = document.querySelector('#show-records-btn');
+    showRecordsButton.addEventListener('click', async () => {
+        let title, artist, year, image, price;
+        await fetch('/getrecords').then(res => res.json()).then(records => {
+            records.map(el => {
+                const record = document.createElement('div');
+
+                const name = document.createElement('h2');
+            })
+            console.log(records);
+        });
+    });
+</script>
+
+</html>

@@ -1,0 +1,28 @@
+{
+  "name": "9-express-server-jseguraweb",
+  "version": "1.0.0",
+  "description": "app:",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wi-fighters/9-express-server-jseguraweb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wi-fighters/9-express-server-jseguraweb/issues"
+  },
+  "homepage": "https://github.com/wi-fighters/9-express-server-jseguraweb#readme",
+  "dependencies": {
+    "ejs": "^3.0.2",
+    "express": "^4.17.1",
+    "lowdb": "^1.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}

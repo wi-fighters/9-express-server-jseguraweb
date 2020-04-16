@@ -1,0 +1,39 @@
+{
+    "Records": [
+        {
+            "title": "Machina",
+            "artist": "The Smashing Pumpkins",
+            "year": 2000,
+            "image": "https://www.udiscovermusic.com/wp-content/uploads/2020/02/The-Smashing-Pumpkins-Machina-The-Machines-Of-God-album-cover-820.jpg",
+            "price": 15.99
+        },
+        {
+            "title": "Out of exile",
+            "artist": "Audioslave",
+            "year": 2005,
+            "image": "https://upload.wikimedia.org/wikipedia/en/e/e4/Audioslave_-_Out_of_Exile.jpg",
+            "price": 16.99
+        },
+        {
+            "title": "Echoes, silence, patience & grace",
+            "artist": "Foo Fighters",
+            "year": 2007,
+            "image": "https://images-na.ssl-images-amazon.com/images/I/71AU95oLsCL._SL1500_.jpg",
+            "price": 13.99
+        },
+        {
+            "title": "Strays",
+            "artist": "Jane's addiction",
+            "year": 2003,
+            "image": "https://upload.wikimedia.org/wikipedia/en/c/cf/Jane%27s_Addiction-Strays.jpg",
+            "price": 15.99
+        },
+        {
+            "title": "By the way",
+            "artist": "Red hot chili peppers",
+            "year": 2002,
+            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Rhcp9.jpg/220px-Rhcp9.jpg",
+            "price": 14.99
+        }
+    ]
+}
