@@ -19,7 +19,7 @@
   "homepage": "https://github.com/wi-fighters/9-express-server-jseguraweb#readme",
   "dependencies": {
     "ejs": "^3.0.2",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "lowdb": "^1.0.0"
   },
   "devDependencies": {
